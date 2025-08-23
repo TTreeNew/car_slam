@@ -11,7 +11,7 @@ colcon build
 source install/setup.bash
 ```
 ### 2.1 依赖
-略
+package.xml的`<depend>`里面
 ### 2.2 运行
 首先在car_slam_test下打开终端，构建功能包
 ```bash
