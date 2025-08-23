@@ -1,0 +1,30 @@
+/patrol_node:
+  ros__parameters:
+    init_point:
+    - 0.0
+    - 0.0
+    - 0.0
+    target_points:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 5.70
+    - -3.50
+    - 3.14
+    - -6.35
+    - -3.73
+    - 3.14
+    - -4.70
+    - 5.10
+    - 0.0
+    use_sim_time: false
+    cylinder_name: "圆柱"
+    cylinder_path: "/home/tree/car_slam/install/autopatrol_robot/share/autopatrol_robot/mode_picture/cylinder.jpg"
+    cabinet_name: "柜子"
+    cabinet_path: "/home/tree/car_slam/install/autopatrol_robot/share/autopatrol_robot/mode_picture/cabinet.jpg"
+    table_name: "桌子"
+    table_path: "/home/tree/car_slam/install/autopatrol_robot/share/autopatrol_robot/mode_picture/table.jpg"
+    car_name: "小车"
+    car_path: "/home/tree/car_slam/install/autopatrol_robot/share/autopatrol_robot/mode_picture/car.jpg"
+
+

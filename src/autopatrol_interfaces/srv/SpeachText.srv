@@ -1,0 +1,3 @@
+string text #语音内容
+---
+bool result #语音结果
